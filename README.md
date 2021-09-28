@@ -25,7 +25,7 @@
 
 ## :computer: Projects:
 
-## :usa: English:
+##  English:
 * **[Using Python to make a decision about where to stay in Milan - Italy](https://github.com/heitor-eng/H_Data_Science/blob/master/Milan_Airbnb_Project.ipynb)**
 
 ## :brazil: Portuguese:
