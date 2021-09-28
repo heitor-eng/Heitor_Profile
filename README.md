@@ -25,10 +25,10 @@
 
 ## :computer: Projects:
 
-## :USA: English:
+## :usa: English:
 * **[Using Python to make a decision about where to stay in Milan - Italy](https://github.com/heitor-eng/H_Data_Science/blob/master/Milan_Airbnb_Project.ipynb)**
 
-## 🇧🇷: Portuguese:
+## :brazil: Portuguese:
 * **[Detecção de Fraudes em Transações de Crédito](https://github.com/heitor-eng/H_Data_Science/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9ditos.ipynb)**
 * **[Análise Exploratória Airbnb](https://github.com/heitor-eng/H_data_science/blob/master/An%C3%A1lise_dos_Dados_do_Airbnb_Cidade_Rio_de_Janeiro.ipynb)**
 * **[Trabalhando com dados nulos ou ausentes](https://github.com/heitor-eng/H_data_science/blob/master/Estudo_de_dados_sobre_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)**
