@@ -23,11 +23,12 @@
 <img height ="20" src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> <img height ="20" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> <img height ="20" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> <img height= "20" src= "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> <img height ="20" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img height ="20" src= "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> 
 <img height ="20" src = "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
-## Projects:
-##English
+## :computer: Projects:
+
+## :USA: English:
 * **[Using Python to make a decision about where to stay in Milan - Italy](https://github.com/heitor-eng/H_Data_Science/blob/master/Milan_Airbnb_Project.ipynb)**
 
-#Portuguese:
+## 🇧🇷: Portuguese:
 * **[Detecção de Fraudes em Transações de Crédito](https://github.com/heitor-eng/H_Data_Science/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9ditos.ipynb)**
 * **[Análise Exploratória Airbnb](https://github.com/heitor-eng/H_data_science/blob/master/An%C3%A1lise_dos_Dados_do_Airbnb_Cidade_Rio_de_Janeiro.ipynb)**
 * **[Trabalhando com dados nulos ou ausentes](https://github.com/heitor-eng/H_data_science/blob/master/Estudo_de_dados_sobre_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)**
