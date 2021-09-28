@@ -38,6 +38,5 @@
 [![heitor-eng GitHub stats](https://github-readme-stats.vercel.app/api?username=heitor-eng&show_icons=true&theme=tokyonight)](https://github.com/heitor-eng/github-readme-stats)
 
 
-
 ## Thanks for visiting.
 
