@@ -26,6 +26,7 @@
 ## :computer: Projects:
 
 ##  🇺🇸 English:
+* **[Data Visualization about the COVID-19 situation at the World and Brazil](https://github.com/heitor-eng/H_Data_Science/blob/master/Data_Science_Projeto_2_Covid19_.ipynb)**
 * **[Using Python to make a decision about where to stay in Milan - Italy](https://github.com/heitor-eng/H_Data_Science/blob/master/Milan_Airbnb_Project.ipynb)**
 * **[A simple strategy to buy and sell assets with Python](https://github.com/heitor-eng/H_Data_Science/blob/master/A_simple_strategy_to_buy_and_sell_assets_with_SMA.ipynb)**
 * **[Stochastic RSI and Python](https://github.com/heitor-eng/H_Data_Science/blob/master/RSI_Estoc%C3%A1stico.ipynb)**
