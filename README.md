@@ -30,7 +30,7 @@
 * **[Using Python to make a decision about where to stay in Milan - Italy](https://github.com/heitor-eng/H_Data_Science/blob/master/Milan_Airbnb_Project.ipynb)**
 * **[A simple strategy to buy and sell assets with Python](https://github.com/heitor-eng/H_Data_Science/blob/master/A_simple_strategy_to_buy_and_sell_assets_with_SMA.ipynb)**
 * **[Stochastic RSI and Python](https://github.com/heitor-eng/H_Data_Science/blob/master/RSI_Estoc%C3%A1stico.ipynb)**
-* **[Gather the Top 10 Cryptocurrencies Data By Market Cap Using Python- Web Scrape](https://github.com/heitor-eng/H_Data_Science/blob/master/Web_Scraping_Using_Python.ipynb)
+* **[Gather the Top 10 Cryptocurrencies Data By Market Cap Using Python- Web Scrape](https://github.com/heitor-eng/H_Data_Science/blob/master/Web_Scraping_Using_Python.ipynb)**
 * **[Data Visualization with Bar Chart Race and Waffle Plot - Open in the Google Colab in a new tab or window](https://github.com/heitor-eng/H_Data_Science/blob/master/Paper_Bar_Chart_Race_Cereais_and_PyWaffle.ipynb)**
 
 ## :brazil: Portuguese:
