@@ -33,6 +33,8 @@
 * **[Gather the Top 10 Cryptocurrencies Data By Market Cap Using Python- Web Scrape](https://github.com/heitor-eng/H_Data_Science/blob/master/Web_Scraping_Using_Python.ipynb)**
 * **[Data Visualization with Bar Chart Race and Waffle Plot - Open in the Google Colab in a new tab or window](https://github.com/heitor-eng/H_Data_Science/blob/master/Paper_Bar_Chart_Race_Cereais_and_PyWaffle.ipynb)**
 
+* **[Linear Regression - Machine Learning Project (PIBB11)](https://github.com/heitor-eng/H_Data_Science/blob/master/Machine_Learning_Project_PIBB11.ipynb)**
+
 ## :brazil: Portuguese:
 * **[Detecção de Fraudes em Transações de Crédito](https://github.com/heitor-eng/H_Data_Science/blob/master/ML_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9ditos.ipynb)**
 * **[Análise Exploratória Airbnb](https://github.com/heitor-eng/H_data_science/blob/master/An%C3%A1lise_dos_Dados_do_Airbnb_Cidade_Rio_de_Janeiro.ipynb)**
