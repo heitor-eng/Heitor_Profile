@@ -11,8 +11,7 @@
 
 📚 I like to read about investments, personal improvement (soft skills), fiction and adventures. 
 
-✳️ 2021 Goals: Continue to improve in the data science area and get a job
-
+✳️ 2022 Goals: Continue to improve in the data science area
 
 ## About me
 
