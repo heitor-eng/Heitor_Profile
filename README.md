@@ -33,6 +33,7 @@
 * **[Stochastic RSI and Python](https://github.com/heitor-eng/H_Data_Science/blob/master/RSI_Estoc%C3%A1stico.ipynb)**
 * **[Gather the Top 10 Cryptocurrencies Data By Market Cap Using Python- Web Scrape](https://github.com/heitor-eng/H_Data_Science/blob/master/Web_Scraping_Using_Python.ipynb)**
 * **[Data Visualization with Bar Chart Race and Waffle Plot - Open in the Google Colab in a new tab or window](https://github.com/heitor-eng/H_Data_Science/blob/master/Paper_Bar_Chart_Race_Cereais_and_PyWaffle.ipynb)**
+*  **[ML -Linear Regression LRNE3](https://github.com/heitor-eng/H_Data_Science/blob/master/Machine_Learning_Project_LREN3.ipynb)**
 
 * **[Linear Regression - Machine Learning Project (PIBB11)](https://github.com/heitor-eng/H_Data_Science/blob/master/Machine_Learning_Project_PIBB11.ipynb)**
 
