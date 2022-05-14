@@ -5,6 +5,8 @@
 
 :factory: Manufacturing engineer 
 
+🏗️ Planning analyst at services of overhauls at steam turbines and major inspection of gas turbines.
+
 :computer: Here you are going to find the projects which I made by myself to get better in the data science area and in data engineer
 
 :house_with_garden: I’m from Brazil
